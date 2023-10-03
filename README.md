@@ -1,6 +1,9 @@
 # nlp-overview
 Overview of NLP projects at Clinical Data Science- University Maastricht
 
+# UM Courses
+- [Advanced Natural Language Processing](https://curriculum.maastrichtuniversity.nl/meta/465515/advanced-natural-language-processing)
+- [Information Retrieval and Text Mining](https://curriculum.maastrichtuniversity.nl/meta/464235/information-retrieval-and-text-mining)
 
 # Learning resources
 
