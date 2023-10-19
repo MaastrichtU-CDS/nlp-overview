@@ -10,7 +10,7 @@ Overview of NLP projects at Clinical Data Science- University Maastricht
 - [AndrejKarpathy](https://www.youtube.com/@AndrejKarpathy/videos]) Youtube channel has a great introduction to language modelling, transformers and GPT
 - [Stanford CS224N](https://web.stanford.edu/class/cs224n/index.html): Natural Language Processing with Deep Learning
 - Follow the course on [Huggingface](https://huggingface.co/course/chapter1/1)
-
+- [Blog of Sebastian Ruder](ruder.io) which includes "a review of the recent history of nlp" [post](https://www.ruder.io/a-review-of-the-recent-history-of-nlp/) [lecture](https://www.youtube.com/watch?v=sGVi4gb90zk&list=PLICxY_yQeGYlcjO6ANCXworXHGC6hHXjA)
 
 # Medical datasets
 
