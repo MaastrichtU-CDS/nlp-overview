@@ -2,15 +2,26 @@
 Overview of NLP projects at Clinical Data Science- University Maastricht
 
 # UM Courses
+
 - [Advanced Natural Language Processing](https://curriculum.maastrichtuniversity.nl/meta/465515/advanced-natural-language-processing)
 - [Information Retrieval and Text Mining](https://curriculum.maastrichtuniversity.nl/meta/464235/information-retrieval-and-text-mining)
 
 # Learning resources
 
-- [AndrejKarpathy](https://www.youtube.com/@AndrejKarpathy/videos]) Youtube channel has a great introduction to language modelling, transformers and GPT
+- [AndrejKarpathy](https://www.youtube.com/@AndrejKarpathy/videos]) Youtube channel has a great introduction to language modelling, transformers and 
+- [Maarten Grootendorst](https://www.maartengrootendorst.com/book/)
 - [Stanford CS224N](https://web.stanford.edu/class/cs224n/index.html): Natural Language Processing with Deep Learning
 - Follow the course on [Huggingface](https://huggingface.co/course/chapter1/1)
 - [Blog of Sebastian Ruder](https://ruder.io) which includes "a review of the recent history of nlp" [post](https://www.ruder.io/a-review-of-the-recent-history-of-nlp/) [lecture](https://www.youtube.com/watch?v=sGVi4gb90zk&list=PLICxY_yQeGYlcjO6ANCXworXHGC6hHXjA)
+- [https://www.oreilly.com/library/view/natural-language-processing/9781098136789/](Natural Language Processing with Transformers, Revised Edition)
+
+
+# Software
+
+  [https://ollama.com](Ollama) Run models locally
+  [https://openwebui.com](OpenwebUI) Web interface for ollama (and others)
+  [https://webllm.mlc.ai](WebLLM) WebLLM: High-Performance In-Browser LLM Inference Engine
+  [https://medmorf.com](https://medmorf.com) Medical data processing tools in browser
 
 # Medical datasets
 
@@ -22,3 +33,5 @@ Overview of NLP projects at Clinical Data Science- University Maastricht
 # Other links
 
 - https://github.com/umcu
+- [AlphaSignal Newsletter](https://alphasignal.ai)
+- [AI report podcast (Dutch)](https://www.aireport.nl)
